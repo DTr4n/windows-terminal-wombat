@@ -1,0 +1,21 @@
+{
+    "name" : "Wombat",
+    "background" : "#171717",
+    "foreground" : "#dedacf",
+    "black" : "#000000",
+    "blue" : "#5da9f6",
+    "cyan" : "#82fff7",
+    "green" : "#b1e969",
+    "purple" : "#e86aff",
+    "red" : "#ff615a",
+    "white" : "#dedacf",
+    "yellow" : "#ebd99c",
+    "brightBlack" : "#313131",
+    "brightBlue" : "#a5c7ff",
+    "brightCyan" : "#b7fff9",
+    "brightGreen" : "#ddf88f",
+    "brightPurple" : "#ddaaff",
+    "brightRed" : "#f58c80",
+    "brightWhite" : "#ffffff",
+    "brightYellow" : "#eee5b2"
+}
